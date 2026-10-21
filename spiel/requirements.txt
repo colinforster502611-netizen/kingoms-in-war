@@ -1,0 +1,2 @@
+websockets>=15,<16
+pyinstaller>=6,<7
